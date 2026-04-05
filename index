@@ -143,9 +143,9 @@ canvas {
 
 <!-- Slideshow -->
 <div class="slideshow-container">
-    <div class="slide fade"><img src="IMG_20260221_212725.jpg" alt="Birthday memory 1"></div>
-    <div class="slide fade"><img src="1000069489-01.jpeg" alt="Birthday memory 2"></div>
-    <div class="slide fade"><img src="388A0035-01.jpeg" alt="Birthday memory 3"></div>
+    <div class="slide fade"><img src="img1.jpg" alt="Birthday memory 1"></div>
+    <div class="slide fade"><img src="img2jpg" alt="Birthday memory 2"></div>
+    <div class="slide fade"><img src="img3.jpg" alt="Birthday memory 3"></div>
 </div>
 
 <!-- Dots -->
